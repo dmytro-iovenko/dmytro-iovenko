@@ -18,4 +18,4 @@ and let's craft some digital wonders together!
 
 ## 🔭 Recent projects
 - [Microbank](https://github.com/dmytro-iovenko/microbank). A robust and scalable application consisting of loosely coupled Spring Boot microservices that comply to the CQRS and Event Sourcing patterns.
-- [IT Library](https://github.com/dmytro-iovenko/it-book-review). A responsive full-stack web application developed with React/TypeScript and Spring Boot, utilizing Spring Data REST for streamlined API implementation and ensuring robust security with OAuth 2.0 and OIDC (Okta).
+- [IT Library](https://github.com/dmytro-iovenko/it-library). A responsive full-stack web application developed with React/TypeScript and Spring Boot, utilizing Spring Data REST for streamlined API implementation and ensuring robust security with OAuth 2.0 and OIDC (Okta).
