@@ -6,12 +6,8 @@ full-stack solutions using the dynamic duo of Spring Boot and ReactJS.
 My passion lies in empowering both myself and fellow engineers to conquer 
 challenges and innovate effortlessly.
 
-I'm not just a code enthusiast; I'm also captivated by all things frontend. 
-Whether it's weaving together stunning UI components or enhancing accessibility 
-and user experience, I find immense joy in the artistry of web development.
-
-You'll often find me immersed in the world of Java, Spring Boot, React, CSS, 
-and Javascript – those are my happy places, where every line of code feels like 
+You'll often find me immersed in the world of Java, Spring Boot, React, 
+and Typescript – those are my happy places, where every line of code feels like 
 a step towards creating something extraordinary.
 
 Beyond the realm of coding, I cherish moments with family and friends and relish 
@@ -22,4 +18,4 @@ and let's craft some digital wonders together!
 
 ## 🔭 Recent projects
 - [Microbank](https://github.com/dmytro-iovenko/microbank). A robust and scalable application consisting of loosely coupled Spring Boot microservices that comply to the CQRS and Event Sourcing patterns.
-- [IT Book Review](https://github.com/dmytro-iovenko/it-book-review). A responsive full-stack application based on MVC architecture that supports CRUD operations and developed using ReactJS and Java Spring Boot.
+- [IT Library](https://github.com/dmytro-iovenko/it-book-review). A responsive full-stack web application developed with React/TypeScript and Spring Boot, utilizing Spring Data REST for streamlined API implementation and ensuring robust security with OAuth 2.0 and OIDC (Okta).
